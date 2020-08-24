@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_a7cf2633ca09812c7fb75bce25367294'] = 'Экспресс Платежи: Интернет-эквайринг';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_3232c5e5b18d6dccb1a106b893f207b7'] = 'Плагин позволяет выставить счёт в системе  Интернет-эквайринг, получить и обработать уведомление в системе  Интернет-эквайринг.';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_aa0cfa6dd067d348a32527c006938cc1'] = 'Вы уверены, что хотите удалить модуль?';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_459a6f79ad9b13cbcb5f692d2cc7a94d'] = 'Токен';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_b9c6dc0ac7d25eb584eff7e8f907f01d'] = 'Ваш токен с сайта express-pay.by';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_a2b787ad97ab6f553dded04fc19dab01'] = 'Адрес для уведомлений';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_02c809f49ce5156bfb45ab974a5cb52d'] = 'Скопируйте этот адрес в поле \"URL для уведомлений\" на сайте express-pay.by';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_7d0bc37d6fa06912eb27960f7e3ce0ee'] = 'Использовать цифровую подпись для API';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_93cba07454f06a4a960172bbd6e2a435'] = 'Да';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_bafd7322c6e97d25b6299b5d6fe8920b'] = 'Нет';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_71f1beebbc9e33147259857832cf63c3'] = 'Секретное слово для подписи счетов';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_efb080fec42d7dca41c771fe2d49108f'] = 'Использовать цифровую подпись для уведомлений';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_363c3eb2417d8d90acae0f2d6e7d6d86'] = 'Секретное слово для подписи уведомлений';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_ba6bc66165f5bd1044379fa3d84c2e24'] = 'Продолжительность сессии в секундах.';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_904dc96990ab33f64d0a3c1fcbcc98fe'] = 'Временной промежуток указанный в секундах, за время которого клиент может совершить платеж (находится в промежутке от 600 секунд (10 минут) до 86400 секунд (1 сутки) ). По-умолчанию равен 1200 секунд (20 минут)';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_bfc6756ac55b47de90e35ddc728ff374'] = 'Использовать тестовый режим';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_1f37743cdcdef44b3d80e8c166c6c3ce'] = 'Адрес API';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_733a6825da8174e401d4fb62d0f1cd86'] = 'Адрес тестового API';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_3fd9d14b17b357d3dccbfe2cf453c9e8'] = 'Сообщение при успешном заказе';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_2151b82df81c58d0e8ad3b728e9ed10e'] = 'Это сообщение будет показано покупателю при успешной обработке заказа';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_74ea58b6a801f0dce4e5d34dbca034dc'] = 'Сохранить';
+$_MODULE['<{expresspaycard}prestashop>expresspaycard_937a2dd685f39edbdf869cbaca88cf5f'] = 'Назад к списку';
+$_MODULE['<{expresspaycard}prestashop>redirect_9c26e58ac29745ae610b274c8dce049e'] = 'Если вы не были перенаправлены, нажмите ';
+$_MODULE['<{expresspaycard}prestashop>infos_4e29f89ec04fa330f365e7b4ef99debe'] = 'Данный плагин позволяет оплачивать заказ через систему интернет-эквайринг';
+$_MODULE['<{expresspaycard}prestashop>infos_e444fe40d43bccfad255cf62ddc8d18f'] = 'Если пользователь выберет данный метод оплаты, то заказ получит статус \"Ожидание оплаты\"';
+$_MODULE['<{expresspaycard}prestashop>infos_5f8dd6029ccaa3fc8c5c7db63aad878d'] = 'Заказ будет подтверждён сразу же после его оплаты в системе интернет-эквайринг.';
